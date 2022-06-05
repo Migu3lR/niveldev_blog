@@ -1,15 +1,15 @@
 ---
-title: "Say hello to Doks 👋"
-description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.asdasd"
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+title: "Enviar mensajes desde el chat de Roblox a Discord"
+description: "Tutorial para aprender como enviar mensajes de texto desde el chat de tu juego en Roblox hacia un canal en un servidor de Discord."
+lead: "Tutorial para aprender como enviar mensajes de texto desde el chat de tu juego en Roblox hacia un canal en un servidor de Discord."
+date: 2022-06-05T11:30:00-05:00
+lastmod: 2020-11-04T11:30:00-05:00
 draft: false
 weight: 50
-images: ["say-hello-to-doks.png"]
+images: []
 contributors: ["Darlismeta"]
 ---
 
-## Solid as a rock
+## Entendiendo el problema y la solución
 
 Some website projects require a solid starting point. With a great developer experience and a sound user experience. Sometimes you just don’t want to start from scratch. That’s why I created Hyas 💚
