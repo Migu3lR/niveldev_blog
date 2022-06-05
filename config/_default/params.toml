@@ -10,7 +10,7 @@ description = "Un Blog para entusiastas de la programación, con muchos ejemplos
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["logo.png"]
 ogLocale = "es_ES"
 domainTLD = "niveldev.netlify.app"
 titleHome = "niveldev"
@@ -28,15 +28,15 @@ schemaAuthorTwitter = "https://twitter.com/migu3lrg"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/miguelromerog/"
 schemaAuthorGitHub = "https://github.com/migu3lr"
 schemaLocale = "es-ES"
-schemaLogo = "/images/logo.png"
+schemaLogo = "logo.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "/images/logo.png"
+schemaImage = "logo.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/migu3lrg"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/migu3lrg"
+schemaGitHub = "https://github.com/migu3lr"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -54,7 +54,7 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Made with ❤️ in Colombia, by @Migu3lR <br> Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
 copyRight = "Copyright (c) 2022-2023 NivelDev"
@@ -77,7 +77,7 @@ lastMod = false
 
 [options]
   lazySizes = true
-  clipBoard = true
+  clipBoard = false
   instantPage = true
   flexSearch = true
   darkMode = true
@@ -87,7 +87,7 @@ lastMod = false
   kaTex = false
   multilingualMode = false
   docsVersioning = false
-  fullWidth = false
+  fullWidth = true
 
 [menu]
   [menu.section]
