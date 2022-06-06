@@ -12,6 +12,11 @@ Based on Ascetic by (c) Ivan Sagalaev <Maniac@SoftwareManiacs.Org>
   color: $body-color;
 }
 
+body code:not(.hljs) {
+  background: $black;
+  color: $body-color-dark;
+}
+
 .hljs-string,
 .hljs-variable,
 .hljs-template-variable,
