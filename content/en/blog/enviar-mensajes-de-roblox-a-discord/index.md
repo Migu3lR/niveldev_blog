@@ -12,10 +12,10 @@ contributors: ["Darlismeta"]
 
 ## Entendiendo el problema y la solución
 
-Si estas creando o administrando un juego de Roblox, puedes programar un solución que permita que tu juego mantenga contacto con tu comunidad en Discord.
-Podrías enviar mensajes con novedades que ocurren en tu juego, como un nuevo logro  alcanzado por un jugador o equipo, o tal vez un mensaje del administrador.
+Si estas creando o administrando un juego de Roblox, puedes utilizar el chat de tu juego o cualquier otra entrada, para enviar información a un canal en Discord.
+Podrías enviar mensajes con novedades que ocurren en tu juego, como un nuevo logro alcanzado por un jugador o equipo,  crear un sistema de sugerencias o tal vez para un mensaje del administrador.
 
-Para hacer esto, necesitas utilizar el servicio de Roblox llamado  [HttpService](https://developer.roblox.com/en-us/api-reference/class/HttpService) y, obviamente un servidor de Discord donde tengas permisos de administrador para crear un WebHook (mas adelante te explicaré que significa eso :wink:).
+Para hacer esto, necesitas utilizar el servicio de Roblox llamado [HttpService](https://developer.roblox.com/en-us/api-reference/class/HttpService) y, obviamente un servidor de Discord donde tengas permisos de administrador para crear un WebHook (mas adelante te explicaré que significa eso :wink:).
 
 ## 1. Crea un servidor de Discord (si no lo tienes) y configura un Webhook
 
@@ -40,3 +40,16 @@ Ahora, vamos a configurar nuestro webhook, indicando el nombre con el que se ver
 <img title="Configurar webhook" src="configurar-webhook.png#center" alt="Configurar webhook">
 
 Luego de configurarlo, solo resta dar clic en "Copiar URL del webhook", y estaremos listos para ir a programar en Roblox Studio :sunglasses:.
+
+archivo code.js
+```lua {hl_lines=[1],linenostart=10}
+local var = "1"
+
+print(var)
+
+function(var)
+    js.vari(asd)
+end
+``` 
+
+`{ my code }`
