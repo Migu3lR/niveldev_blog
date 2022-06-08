@@ -6,7 +6,7 @@ date: 2022-06-05T11:30:00-05:00
 lastmod: 2022-06-05T11:30:00-05:00
 draft: false
 weight: 50
-images: ["crear-servidor-discord.png"]
+images: ["configurar-webhook.png"]
 contributors: ["Darlismeta"]
 ---
 

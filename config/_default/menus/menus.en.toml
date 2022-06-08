@@ -29,9 +29,16 @@
 #   weight = 15
 
 [[main]]
-  name = "Tutoriales Roblox"
+  name = "Roblox"
+  identifier = "roblox"
+  weight = 10
+
+[[main]]
+  name = "Blog"
+  identifier = "blog"
   url = "/blog/"
   weight = 20
+  parent = "roblox"
 
 #[[main]]
 #  name = "Get Started"
