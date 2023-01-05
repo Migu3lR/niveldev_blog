@@ -44,8 +44,8 @@
   
 [[redirects]]
   from = "/yt"
-  to = "https://www.youtube.com/c/niveldev"
+  to = "https://www.youtube.com/c/niveldev?sub_confirmation=1"
   
 [[redirects]]
   from = "/youtube"
-  to = "https://www.youtube.com/c/niveldev"
+  to = "/yt"
