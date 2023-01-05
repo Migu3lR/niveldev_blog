@@ -49,3 +49,11 @@
 [[redirects]]
   from = "/youtube"
   to = "/yt"
+
+[[redirects]]
+  from = "/discord"
+  to = "https://discord.com/invite/c8CXfMFZkR"
+
+[[redirects]]
+  from = "/roblox"
+  to = "https://www.roblox.com/groups/15488630/NivelDev-Studios"
