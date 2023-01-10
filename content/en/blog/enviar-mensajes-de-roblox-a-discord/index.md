@@ -4,7 +4,7 @@ description: "Tutorial para aprender cómo enviar mensajes de texto desde el cha
 lead: "Aprende a enviar mensajes de texto desde el chat de tu juego en Roblox a un canal en tu servidor de Discord."
 date: 2022-06-05T11:30:00-05:00
 lastmod: 2022-06-05T11:30:00-05:00
-draft: false
+draft: true
 weight: 50
 images: ["configurar-webhook.png"]
 contributors: ["Darlismeta"]
